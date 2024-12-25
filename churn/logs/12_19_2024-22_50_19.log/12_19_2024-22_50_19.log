@@ -1,0 +1,9 @@
+[2024-12-19 22:50:19,475] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-19 22:50:19,495] 34 root - INFO - Veri Seti Okundu
+[2024-12-19 22:50:19,527] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-19 22:50:19,563] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-19 22:50:19,612] 84 root - INFO - Read train and test data completed
+[2024-12-19 22:50:19,612] 86 root - INFO - Obtaining preprocessing object
+[2024-12-19 22:50:19,629] 60 root - INFO - Categorical columns: ['gender', 'Partner', 'Dependents', 'PhoneService', 'MultipleLines', 'InternetService', 'OnlineSecurity', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies', 'Contract', 'PaperlessBilling', 'PaymentMethod']
+[2024-12-19 22:50:19,632] 61 root - INFO - Numerical columns: ['SeniorCitizen', 'tenure', 'MonthlyCharges', 'TotalCharges']
+[2024-12-19 22:50:19,634] 99 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

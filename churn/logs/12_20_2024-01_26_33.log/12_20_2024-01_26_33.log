@@ -1,0 +1,7 @@
+[2024-12-20 01:26:33,555] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-20 01:26:33,574] 34 root - INFO - Veri Seti Okundu
+[2024-12-20 01:26:33,595] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-20 01:26:33,621] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-20 01:26:33,680] 86 root - INFO - Saved preprocessing object.
+[2024-12-20 01:26:33,681] 22 root - INFO - Splitting Dependent and Independent variables from train and test data
+[2024-12-20 01:26:34,792] 51 root - INFO - Best model found: Gradient Boosting with score: {'score': 0.8090844570617459}

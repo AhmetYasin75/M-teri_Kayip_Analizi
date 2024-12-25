@@ -1,0 +1,6 @@
+[2024-12-20 00:04:24,778] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-20 00:04:24,796] 34 root - INFO - Veri Seti Okundu
+[2024-12-20 00:04:24,826] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-20 00:04:24,858] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-20 00:04:24,953] 86 root - INFO - Saved preprocessing object.
+[2024-12-20 00:04:24,955] 36 root - INFO - Splitting Dependent and Independent variables from train and test data

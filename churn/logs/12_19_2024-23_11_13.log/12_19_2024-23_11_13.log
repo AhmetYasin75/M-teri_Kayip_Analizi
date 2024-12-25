@@ -1,0 +1,5 @@
+[2024-12-19 23:11:13,128] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-19 23:11:13,146] 34 root - INFO - Veri Seti Okundu
+[2024-12-19 23:11:13,178] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-19 23:11:13,226] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-19 23:11:13,326] 86 root - INFO - Saved preprocessing object.

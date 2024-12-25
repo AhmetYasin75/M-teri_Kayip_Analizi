@@ -1,0 +1,8 @@
+[2024-12-19 22:24:07,271] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-19 22:24:07,300] 34 root - INFO - Veri Seti Okundu
+[2024-12-19 22:24:07,331] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-19 22:24:07,372] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-19 22:24:07,419] 82 root - INFO - Read train and test data completed
+[2024-12-19 22:24:07,419] 84 root - INFO - Obtaining preprocessing object
+[2024-12-19 22:24:07,419] 58 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2024-12-19 22:24:07,420] 59 root - INFO - Numerical columns: ['writing_score', 'reading_score']

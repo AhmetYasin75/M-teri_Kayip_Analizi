@@ -1,0 +1,13 @@
+[2024-12-22 15:50:28,827] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-22 15:50:28,844] 34 root - INFO - Veri Seti Okundu
+[2024-12-22 15:50:28,870] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-22 15:50:28,908] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-22 15:50:28,995] 86 root - INFO - Saved preprocessing object.
+[2024-12-22 15:50:28,997] 25 root - INFO - Eðitim ve test verilerinden baðýmlý ve baðýmsýz deðiþkenleri ayýrma
+[2024-12-22 15:50:29,301] 80 root - INFO - Random Forest eðitiliyor
+[2024-12-22 15:50:29,730] 87 root - INFO - Random Forest Doðruluk: 0.7260468417317246, F1 Skoru: 0.6077235772357723, Precision: 0.48936170212765956, Recall: 0.8016085790884718
+[2024-12-22 15:50:29,732] 80 root - INFO - Decision Tree eðitiliyor
+[2024-12-22 15:50:29,759] 87 root - INFO - Decision Tree Doðruluk: 0.7054648687012065, F1 Skoru: 0.5734840698869476, Precision: 0.465, Recall: 0.7479892761394102
+[2024-12-22 15:50:29,759] 80 root - INFO - Gradient Boosting eðitiliyor
+[2024-12-22 15:50:30,680] 87 root - INFO - Gradient Boosting Doðruluk: 0.7331440738112136, F1 Skoru: 0.6277227722772277, Precision: 0.4976452119309262, Recall: 0.8498659517426274
+[2024-12-22 15:50:30,684] 96 root - INFO - En iyi model kaydedildi: GradientBoostingClassifier F1 Skoru: 0.6277227722772277

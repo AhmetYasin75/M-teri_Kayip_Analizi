@@ -1,0 +1,6 @@
+[2024-12-21 22:32:25,803] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-21 22:32:25,833] 34 root - INFO - Veri Seti Okundu
+[2024-12-21 22:32:25,860] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-21 22:32:25,891] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-21 22:32:25,990] 86 root - INFO - Saved preprocessing object.
+[2024-12-21 22:32:25,993] 22 root - INFO - Eðitim ve test verilerinden baðýmlý ve baðýmsýz deðiþkenleri ayýrma

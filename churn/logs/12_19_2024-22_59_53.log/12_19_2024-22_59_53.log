@@ -1,0 +1,7 @@
+[2024-12-19 22:59:53,966] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-19 22:59:53,992] 34 root - INFO - Veri Seti Okundu
+[2024-12-19 22:59:54,040] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-19 22:59:54,092] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-19 22:59:54,148] 79 root - INFO - Read train and test data completed
+[2024-12-19 22:59:54,148] 81 root - INFO - Obtaining preprocessing object
+[2024-12-19 22:59:54,187] 94 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.

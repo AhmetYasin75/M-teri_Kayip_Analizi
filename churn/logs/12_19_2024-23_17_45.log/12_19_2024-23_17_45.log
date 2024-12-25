@@ -1,0 +1,7 @@
+[2024-12-19 23:17:45,212] 31 root - INFO - Data Ýngestion Sýnýfýna Girildi ve Çalýþýldý
+[2024-12-19 23:17:45,230] 34 root - INFO - Veri Seti Okundu
+[2024-12-19 23:17:45,258] 40 root - INFO - Train Test Data Ayrýmýna Baþlandý
+[2024-12-19 23:17:45,297] 47 root - INFO - Data ayýrma iþlemi baþarýyla tamamlandý
+[2024-12-19 23:17:45,397] 86 root - INFO - Saved preprocessing object.
+[2024-12-19 23:17:45,399] 36 root - INFO - Splitting Dependent and Independent variables from train and test data
+[2024-12-19 23:19:11,142] 98 root - INFO - Best model found: SVM with score: 0.08115353959857996
